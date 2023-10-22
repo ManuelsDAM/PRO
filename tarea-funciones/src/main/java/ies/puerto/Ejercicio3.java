@@ -13,7 +13,7 @@ public class Ejercicio3 {
 
     public int areaRectangulo(int a, int b) {
         int resultado = 0;
-        resultado =
+        resultado = a * b;
         return resultado;
     }
 }
