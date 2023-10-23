@@ -22,9 +22,13 @@ public class Ejercicio4 {
              return resultado;
 
         }
-
         public int maximoNumeros(int a, int b, int c){
-             int resultado
-        }
+             maximoNumeros(int a, intb);
+             if(resultado <c)
+                resultado = c;
+            resultado = maximoNumeros(int a, int b);
+            
+            
+        }return resultado;
 }
 
