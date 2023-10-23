@@ -1,4 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: ies.puerto.Ejercicio2Test
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in ies.puerto.Ejercicio2Test
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.025 s <<< FAILURE! - in ies.puerto.Ejercicio2Test
+calcularCirculo{int, double}  Time elapsed: 0.023 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int arg0] in method [public void ies.puerto.Ejercicio2Test.calcularCirculo(int,double)].
+

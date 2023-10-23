@@ -13,22 +13,17 @@ public class Ejercicio4 {
          * @return resultado  el numero mayor
          */
          public int maximoNumeros(int a , int b) {
-             a = 8; b = 9;
+
             int resultado = a;
             if (resultado < b) {
                 resultado = b;
-                System.out.println(resultado);
             }
              return resultado;
 
         }
-        public int maximoNumeros(int a, int b, int c){
-             maximoNumeros(int a, intb);
-             if(resultado <c)
-                resultado = c;
-            resultado = maximoNumeros(int a, int b);
-            
-            
-        }return resultado;
+        public int maximoNumeros(int numero1, int numero2, int numero3){
+             int maximo = maximoNumeros(numero1, numero2);
+             return maximoNumeros(maximo, numero3);
+        }
 }
 

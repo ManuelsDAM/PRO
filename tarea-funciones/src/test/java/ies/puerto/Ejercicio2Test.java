@@ -11,10 +11,12 @@ public class Ejercicio2Test {
         ejercicio2 = new Ejercicio2();
     }
 
+
+    public void calcularCirculo3Test(){
+        calcularCirculo(3,28.26);
+    }
     @Test
-    public void calcularCirculo() {
-        int radio = 3;
-        double resultadoOk = 28.26;
+    public void calcularCirculo(int radio, double resultadoOk) {
         double resultado = ejercicio2.areaCirculo(radio);
         Assertions.assertEquals(resultadoOk, resultado, "No se ha obtenido el resultado esperado");
     }
