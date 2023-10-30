@@ -5,19 +5,19 @@ import org.junit.jupiter.api.Test;
 
 public class Ejercicio2Test {
 
-    Ejercicio1 ejercicio1 = new Ejercicio1();
+    Ejercicio2 ejercicio2 = new Ejercicio2();
 
     @Test
-    public void calcularSueldoHorasOkTest() {
-        int resultado = ejercicio1.calcularSueldoHoras(10);
-        Assertions.assertEquals(100, resultado, "No se ha obtenido el resultado esperado");
+    public void numeropositivoOkTest() {
+        boolean positivo = ejercicio2.numeropositivo(10);
+        Assertions.assertEquals(true, positivo, "No se ha obtenido el resultado esperado");
 
     }
 
     @Test
     public void calcularSueldoHorasErrorTest() {
-        int resultado = ejercicio1.calcularSueldoHoras(10);
-        Assertions.assertEquals(resultado, 100, "No debería resultar así");
+        boolean par = ejercicio2.numeropar(10);
+        Assertions.assertEquals(true, par, "No debería resultar así");
 
     }
 }

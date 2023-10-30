@@ -7,8 +7,8 @@ public class Ejercicio1 {
      * @param numeroHoras trabajadas
      * @return sueldo
      */
-    public int calcularSueldoHoras(int numeroHoras) {
-        int sueldo = 0;
+    public float calcularSueldoHoras(float numeroHoras) {
+        float sueldo;
         sueldo = numeroHoras*10;
         return sueldo;
     }
