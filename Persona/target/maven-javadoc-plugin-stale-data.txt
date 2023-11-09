@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/dam/Documentos/Manuel/PRO/Persona/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Persona 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/dam/Documentos/Manuel/PRO/Persona/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Persona 1.0-SNAPSHOT API'
+ies.puerto
+/home/dam/Documentos/Manuel/PRO/Persona/src/main/java = 1699035203971
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/allpackages-index.html = 1699543023243
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/search.js = 1699543023259
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/allclasses.html = 1699543023251
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/jquery-ui.overrides.css = 1699543023271
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/element-list = 1699543023191
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/type-search-index.js = 1699543023235
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/stylesheet.css = 1699543023259
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/index.html = 1699543023255
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/package-search-index.js = 1699543023231
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/package-search-index.zip = 1699543023235
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/member-search-index.js = 1699543023235
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/type-search-index.zip = 1699543023235
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/member-search-index.zip = 1699543023235
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/script.js = 1699543023259
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/allclasses-index.html = 1699543023243
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/deprecated-list.html = 1699543023251
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/help-doc.html = 1699543023255
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/index-all.html = 1699543023239
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/constant-values.html = 1699543023207
+/home/dam/Documentos/Manuel/PRO/Persona/target/site/apidocs/overview-tree.html = 1699543023223
